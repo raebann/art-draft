@@ -1,0 +1,7 @@
+<head>
+  <meta charset="utf-8">
+  <title>
+    {{- .Site.Title | title }}
+    {{ with .Title }} | {{ . | title }}{{ end }}
+  </title>
+</head>

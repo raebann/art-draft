@@ -1,0 +1,9 @@
+{{ with .Site.Params.Social }}
+  <footer>
+    <ul>
+    {{ range $site, $url := . }}
+      <li><a href="{{ $url }}">{{ $site | title }}</a></li>
+    {{ end }}
+    </ul>
+  </footer>
+{{ end }}

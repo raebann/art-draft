@@ -1,0 +1,7 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: "Portfolio"
+params:
+  Social:
+    github: https://github.com/tlynch
+    twitter: https://twitter.com/redacted.jeans
