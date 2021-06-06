@@ -2,7 +2,11 @@
   <footer class="footer-bar">
     <ul class="footer-list">
     {{ range $site, $url := . }}
-      <li class="item"><a class="social-icon" href="{{ $url }}">{{ $site | title }}</a></li>
+      <li class="item"><a class="social-icon" rel="me" href="{{ $url }}">
+        <svg class="svg" viewbox="0 0 16 16">
+          <title>{{ $site | title }}</title><use xlink:href="/icons/social.svg#{{ $site }}"></use>
+        </svg>
+      </a></li>
     {{ end }}
     </ul>
   </footer>

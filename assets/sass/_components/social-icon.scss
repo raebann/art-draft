@@ -1,10 +1,16 @@
 .social-icon {
   color: $fg;
-  fill: $fg;
 
   &:hover,
-  &:active {
+  &:focus {
     color: $accent;
-    fill: $accent;
+  }
+
+  > .svg {
+    height: $font-large;
+    width: $font-large;
+    display: inline-block;
+    fill: currentColor;
+    vertical-align: text-bottom;
   }
 }
