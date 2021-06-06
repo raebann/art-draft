@@ -1,8 +1,8 @@
 {{ with .Site.Params.Social }}
-  <footer>
-    <ul>
+  <footer class="footer-bar">
+    <ul class="footer-list">
     {{ range $site, $url := . }}
-      <li><a href="{{ $url }}">{{ $site | title }}</a></li>
+      <li class="item"><a class="social-icon" href="{{ $url }}">{{ $site | title }}</a></li>
     {{ end }}
     </ul>
   </footer>

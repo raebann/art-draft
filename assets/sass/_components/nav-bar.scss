@@ -1,3 +1,16 @@
 .nav-bar {
   position: sticky;
+  top: 0;
+  background-color: $bg;
+  font-size: $font-large;
+
+  > .skip-nav {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) translateY(-100%);
+    z-index: 1;
+  }
+  > .skip-nav:focus {
+    transform: translateX(-50%) translateY($gutter / 2);
+  }
 }

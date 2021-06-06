@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Roboto';
+  // TODO: use local alternative first if possible
+  // also do i need to include a separate typeface fr bold?
+  src: url('/fonts/roboto-regular.ttf') format('truetype');
+}
+
+// FIXME: this should be configurable
+// colors
+$fg: #222;
+$bg: #fff;
+$accent: sienna;
+
+// fonts
+$font-stack: 'Roboto', sans-serif;
+$font-small: 1.2rem;
+$font-normal: 1.8rem;
+$font-large: 2.4rem;
+
+// spacing
+$gutter: 3rem;

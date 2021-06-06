@@ -1,0 +1,6 @@
+.skip-nav {
+  padding: ($gutter / 4) ($gutter / 2);
+  background-color: $bg;
+  transition: transform .1s linear;
+  font-size: $font-normal;
+}

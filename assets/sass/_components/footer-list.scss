@@ -1,0 +1,10 @@
+.footer-list {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+
+  > .item {
+    padding: $gutter ($gutter / 2);
+  }
+}

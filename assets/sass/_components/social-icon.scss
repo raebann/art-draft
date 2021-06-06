@@ -1,0 +1,10 @@
+.social-icon {
+  color: $fg;
+  fill: $fg;
+
+  &:hover,
+  &:active {
+    color: $accent;
+    fill: $accent;
+  }
+}

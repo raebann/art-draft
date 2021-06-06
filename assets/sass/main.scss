@@ -1,11 +1,23 @@
 /**
  * This CSS loosely follows the RSCSS convention: https://rscss.io/.
  */
+// fonts, config, & other variables
+@import '_settings.scss';
+
 // resets & other defaults
 @import '_resets.scss';
 
 // unclassed html elements
 @import '_base.scss';
 
-// components
+// components:
+//  layout
+@import '_components/layout-container.scss';
+//  header/navigation
 @import '_components/nav-bar.scss';
+@import '_components/skip-nav.scss';
+@import '_components/nav-list.scss';
+@import '_components/nav-item.scss';
+//  footer
+@import '_components/footer-list.scss';
+@import '_components/social-icon.scss';

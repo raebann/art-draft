@@ -1,0 +1,19 @@
+.nav-item {
+  padding: $gutter ($gutter / 2);
+
+  &:first-child {
+    padding-left: 0;
+  }
+  &:last-child {
+    padding-right: 0;
+  }
+
+  > .link {
+    text-decoration: none;
+    color: $fg;
+  }
+  > .link:hover,
+  > .link:focus {
+    color: $accent;
+  }
+}

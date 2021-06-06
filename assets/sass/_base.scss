@@ -1,4 +1,21 @@
 body {
-  font-size: 2.4rem;
-  min-height: 100vh;
+  color: $fg;
+  font-size: $font-normal;
+  font-family: $font-stack;
+  line-height: 150%;
+}
+
+a {
+  color: $accent;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure {
+  margin-bottom: $gutter / 2;
+}
+
+
+ul, ol {
+  margin-left: $gutter;
 }
