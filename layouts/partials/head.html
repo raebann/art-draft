@@ -4,4 +4,7 @@
     {{- .Site.Title | title }}
     {{ with .Title }} | {{ . | title }}{{ end }}
   </title>
+
+  {{ $styles := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
 </head>
