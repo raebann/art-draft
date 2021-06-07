@@ -3,10 +3,10 @@
 
   <nav>
     <ul class="nav-list">
-      <li class="nav-item -home"><a class="link" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></li>
-      <li class="nav-item"><a class="link" href="{{ .Site.BaseURL }}/projects">Projects</a></li>
-      <li class="nav-item"><a class="link" href="{{ .Site.BaseURL }}/publications">Publications</a></li>
-      <li class="nav-item"><a class="link" href="{{ .Site.BaseURL }}/about">About</a></li>
+      <li class="nav-item -home"><a class="link" href="{{ .Site.BaseURL }}">{{ .Site.Title | title }}</a></li>
+      {{ range .Site.Menus.main }}
+        <li class="nav-item"><a class="link" href="{{ .URL }}">{{ .Name | title }}</a></li>
+      {{ end }}
     </ul>
   </nav>
 </header>
