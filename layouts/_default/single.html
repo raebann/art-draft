@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <h1 id="{{ .Title | urlize }}">{{ .Title }}</h1>
   <div>
     {{ .Content }}
   </div>

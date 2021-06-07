@@ -6,10 +6,13 @@ menu:
   main:
   - name: Projects
     url: /projects/
+    weight: 1
   - name: Publications
     url: /publications/
+    weight: 2
   - name: About
     url: /about/
+    weight: 3
 social:
   github: https://github.com/tlynch
   twitter: https://twitter.com/redacted.jeans
