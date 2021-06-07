@@ -1,1 +1,8 @@
-hi i'm jean
+---
+layout: bio
+title: About Me
+---
+
+there should not be an h1 above
+
+also hi i'm jean

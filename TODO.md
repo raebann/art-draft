@@ -29,3 +29,6 @@
   - check that production has good caching for static assets
 - review SEO (specifically meta tags in `<head>`: description, etc)
 - `robots.txt`?
+- create macros(?)
+  - images: image tag with alt text, optionally in figure w figcaption
+  - blockquotes: figure with blockquote, figcaption, & cite

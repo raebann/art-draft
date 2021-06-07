@@ -1,10 +1,13 @@
 <head>
   <meta charset="utf-8">
-  <title>
-    {{- .Site.Title | title }}{{ with .Title }} | {{ . | title }}{{ end }}
-  </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{- .Site.Title | title }}{{ with .Title }} | {{ . | title }}{{ end -}}
+  </title>
+  {{ with .Description -}}
+    <meta name="description" content="{{ . }}">
+  {{- end }}
 
-  {{ $styles := resources.Get "styles/main.scss" | toCSS | minify | fingerprint }}
+  {{- $styles := resources.Get "styles/main.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
 </head>
