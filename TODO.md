@@ -18,7 +18,6 @@
   - make sure to include options for both themes for any customizable colours
 - uhh make sure this is mobile-friendly
   - the main difficulty here is the menu
-  - also `meta viewport` or whatever
 - add a `favicon.ico` (or add an empty one so browser doesn't get a 404)
 
 ## Other
