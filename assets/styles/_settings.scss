@@ -16,6 +16,11 @@ $font-stack: 'Roboto', sans-serif;
 $font-small: 1.2rem;
 $font-normal: 1.8rem;
 $font-large: 2.4rem;
+$line-height: 1.5;
 
 // spacing
 $gutter: 3rem;
+//  technically this detail shouldn't really live here because we don't /know/ that the header has
+//  2x gutter padding, or a large font-size, but in practice this is true and there's nowhere else
+//  to put it
+$header-height: ($gutter * 2) + ($font-large * $line-height);

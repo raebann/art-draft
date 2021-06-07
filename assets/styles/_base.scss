@@ -2,7 +2,11 @@ body {
   color: $fg;
   font-size: $font-normal;
   font-family: $font-stack;
-  line-height: 150%;
+  line-height: $line-height;
+}
+
+[id] {
+  scroll-margin-top: $header-height;
 }
 
 a {

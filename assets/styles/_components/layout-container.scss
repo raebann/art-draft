@@ -8,8 +8,5 @@
   
   > .maincontent {
     flex-grow: 1;
-    padding-top: $gutter / 2;
-    // header is ~130px when browser font size is 16px
-    scroll-margin-top: 13rem;
   }
 }
