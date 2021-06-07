@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: standalone
 title: About Me
 ---
 
