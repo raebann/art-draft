@@ -1,9 +1,13 @@
 ##HOUSE ON FIRE: A POST-HOPE COMEDY
 
 **DIRECTOR:** Martha Ross
+
 **STAGE MANAGER:** Beka Morrison
+
 **SET AND COSTUME DESIGN:** Snezana Pesic
+
 **LIGHTING DESIGN:** Giuseppe Condello
+
 **SOUND DESIGN:** Lyon Smith
 
 **Performed as the Mainstage Show at CDTPS, Toronto, 2019. Devised by the cast and director over a period of 3 months.**
