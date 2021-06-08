@@ -3,11 +3,17 @@
 **VCDS, 2016**
 
 **PLAYWRIGHT:** Steven Yockey
+
 **DIRECTOR:** Emma Keil-Vine
+
 **STAGE MANAGER:** Rachel Bannerman
+
 **SET DESIGN:** Abby Palmer
+
 **SOUND DESIGN:** Samantha Grecco
+
 **PROJECTION DESIGN:** Emma Keil-Vine
+
 
 **Performed at the Cat's Eye, Toronto, 2016. *Afterlife:a ghost story* was nominated for Best Costume/Hair/Makeup; Best Supporting Performer in a Play(two nominations); Best Technical Achievement (Sound Design); Best Production Design; and Best Set Design at the 2016/2017 Dougie Awards.**
 
@@ -15,6 +21,6 @@
 
 
 **PRESS:**
-The emotional journey that was the show left the audience deep in awe, especially due to the imagery of its final moments...Congratulations to the wonderful cast and crew and to VCDS for a show that left the audience feeling as if their hearts were hooked and engulfed by the ebbs and flows of Afterlife: A Ghost Story.” - Nikta Sadati, The Strand (https://thestrand.ca/the-strand-reviews-vcds-presents-afterlife-a-ghost-story/)
-“The characters are trapped in their own spheres in the afterlife, which does not seem to be any better than when they were alive. The vibrant tone and the imagery of the play haunts the audience, but not in the traditional sense. Afterlife: A Ghost Story creates a feeling of horror that comes from being trapped within—the type of horror that comes with a sigh.” - Reem Taha, The Medium (https://themedium.ca/arts/vcds-navigates-grief-afterlife)
+The emotional journey that was the show left the audience deep in awe, especially due to the imagery of its final moments...Congratulations to the wonderful cast and crew and to VCDS for a show that left the audience feeling as if their hearts were hooked and engulfed by the ebbs and flows of Afterlife: A Ghost Story.” - Nikta Sadati, *The Strand* 
+“The characters are trapped in their own spheres in the afterlife, which does not seem to be any better than when they were alive. The vibrant tone and the imagery of the play haunts the audience, but not in the traditional sense. Afterlife: A Ghost Story creates a feeling of horror that comes from being trapped within—the type of horror that comes with a sigh.” - Reem Taha, *The Medium*
 
