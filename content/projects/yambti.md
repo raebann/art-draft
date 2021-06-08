@@ -1,9 +1,13 @@
-##YOU ARE MORE BEAUTIFUL THAN ISTANBUL
+## YOU ARE MORE BEAUTIFUL THAN ISTANBUL
 
 **PLAYWRIGHT:** Murat Mahmutyazıcıoğlu 
+
 **DIRECTOR:** Büke Erkoç
-**STAGE MANAGER:** Ellyse Waugh
+
+**STAGE MANAGER:** Elyse Waugh
+
 **SET DESIGN:** Snezana Pesic
+
 **CAST:** Ayfer (Stephanie Zeit), Basak (Rachel Bannerman), Melis (Megane Degousee)
 
 **Performed at CDTPS, Toronto, 2018.**
