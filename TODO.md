@@ -8,6 +8,8 @@
 - 404 page
 
 ## Theme
+- iamges in single project pages need description/caption
+  - if possible support markdown
 - add a (scrollable) dropdown menu to "Projects" menu
   - make sure this works properly on mobile!
 - wide image lists look weird when there's less than four images
@@ -16,8 +18,6 @@
 - postcss?
 - taxonomies! i.e. tags in frontmatter
 - maybe include bold font for site name?
-- dark theme media query? (switch to css vars)
-  - make sure to include options for both themes for any customizable colours
 - uhh make sure this is mobile-friendly
   - the main difficulty here is the menu
   - also the image grids/lists need some work
@@ -32,16 +32,7 @@
   - also look into [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display) to avoid FOIT
   - check that production has good caching for static assets
 - review SEO (specifically meta tags in `<head>`: description, etc)
-- `robots.txt`?
+- `robots.txt`: no indexing for anyone!
 - create macros(?)
   - images: image tag with alt text, optionally in figure w figcaption
   - blockquotes: figure with blockquote, figcaption, & cite
-
-## Questions
-- `robots.txt`
-- wide images/image lists: y/n
-- dark theme
-- anchor links next to headers
-- do we want image captions (for things like attribution)
-- what do taxonomies look like (both taxonomy index page & on a single post)
-- favicon?
