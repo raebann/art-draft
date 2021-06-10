@@ -1,4 +1,6 @@
-## VEFS RUNWAY SHOW: DIVINE TRASH
+---
+title: "VEFS RUNWAY SHOW: DIVINE TRASH"
+---
 
 **DESIGNER:** Julia Pyzeck
 

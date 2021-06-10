@@ -1,4 +1,6 @@
-## YOU ARE MORE BEAUTIFUL THAN ISTANBUL
+---
+title: YOU ARE MORE BEAUTIFUL THAN ISTANBUL
+---
 
 **PLAYWRIGHT:** Murat Mahmutyazıcıoğlu 
 

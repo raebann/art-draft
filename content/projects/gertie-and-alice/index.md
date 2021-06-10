@@ -1,8 +1,15 @@
 ---
 title: "Gertie and Alice by the sea (you are to me)"
+resources:
+- src: "images/ga1.jpg"
+  title: "Three moon jellyfishes (Aurelia aurita) captured by a lion's mane jellyfish (Cyanea capillata) in Rågårdsdal, Sweden."
+- src: "images/ga2.jpg"
+  title: "Leg rowing fisherman, seen through his cone basket, on Inle Lake."
+- src: "images/ga3.jpg"
+  title: "The interior side of the dome of the Sheikh Lotf-Allah mosque in Isfahan, Iran."
+- src: "images/ga4.jpg"
+  title: "The Golden Gate Bridge as seen from the Marin Headlands at sunrise. Large parts of the bridge are covered by low, dense fog that is a frequent feature of this part of California."
 ---
-
-**GERTIE AND ALICE BY THE SEA (YOU ARE TO ME)**
 
 **BODIES OF KNOWLEDGE: LGBTQ+ ARTS FESTIVAL, 2018** 
 

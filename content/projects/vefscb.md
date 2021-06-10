@@ -1,4 +1,6 @@
-## VEFS RUNWAY SHOW: CELESTIAL BODIES
+---
+title: "VEFS RUNWAY SHOW: CELESTIAL BODIES"
+---
 
 **DESIGNER:** Jasmine Cabanilla
 

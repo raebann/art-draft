@@ -1,6 +1,6 @@
------
-title: Afterlife: a ghost story
------
+---
+title: "Afterlife: a ghost story"
+---
 
 **VCDS, 2016**
 

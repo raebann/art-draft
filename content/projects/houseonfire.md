@@ -1,6 +1,6 @@
-------
-title: House on Fire: A Post-Hope Comedy
-------
+---
+title: "House on Fire: A Post-Hope Comedy"
+---
 
 **DIRECTOR:** Martha Ross
 
