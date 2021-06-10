@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-    {{- .Site.Title | title }}{{ with .Title }} | {{ . | title }}{{ end -}}
+    {{ with .Title }}{{ . | title }} | {{ end -}}{{- .Site.Title | title }}
   </title>
   {{ with .Description -}}
     <meta name="description" content="{{ . }}">
