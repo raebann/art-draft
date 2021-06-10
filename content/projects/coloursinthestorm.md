@@ -1,4 +1,6 @@
-## THE COLOURS IN THE STORM
+------
+title: The Colours in the Storm
+-----
 
 **VCDS CENTENNIAL SERIES**
 
