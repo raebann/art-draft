@@ -10,6 +10,8 @@
 ## Theme
 - add a (scrollable) dropdown menu to "Projects" menu
   - make sure this works properly on mobile!
+- wide image lists look weird when there's less than four images
+  - do we even want wide images/image lists? discuss
 - allow customizing colours (at least accent colour, maybe also fg/bg)
 - postcss?
 - taxonomies! i.e. tags in frontmatter
@@ -20,6 +22,7 @@
   - the main difficulty here is the menu
   - also the image grids/lists need some work
 - add a `favicon.ico` (or add an empty one so browser doesn't get a 404)
+- review animations & @prefers-reduced-motion
 
 ## Other
 - write some docs (take existing docs and revamp fr new site)
@@ -33,3 +36,12 @@
 - create macros(?)
   - images: image tag with alt text, optionally in figure w figcaption
   - blockquotes: figure with blockquote, figcaption, & cite
+
+## Questions
+- `robots.txt`
+- wide images/image lists: y/n
+- dark theme
+- anchor links next to headers
+- do we want image captions (for things like attribution)
+- what do taxonomies look like (both taxonomy index page & on a single post)
+- favicon?
