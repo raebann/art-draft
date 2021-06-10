@@ -1,4 +1,6 @@
-## THE IMPORTANCE OF BEING EARNEST
+------
+title: The Importance of Being Earnest
+------
 
 **VCDS, 2018**
 
