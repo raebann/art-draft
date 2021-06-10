@@ -4,9 +4,9 @@
   {{- with .Resources.ByType "image" -}}
     <ul class="image-list">
     {{- range . -}}
-      <li class="image-container">
+      <li class="item">
         {{ $image := .Fill (printf "%s%s" "500x500 " .Params.Anchor) }}
-        <img class="image" src="{{ $image.RelPermalink }}" alt="{{ $image.Title }}">
+        <img src="{{ $image.RelPermalink }}" alt="{{ $image.Title }}">
       </li>
     {{- end -}}
     </ul>

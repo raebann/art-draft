@@ -19,7 +19,12 @@ ul, ol, dl, figure {
   margin-bottom: $gutter / 2;
 }
 
-
 ul, ol {
   margin-left: $gutter;
+}
+
+img {
+  display: block;
+  width: 100%;
+  border-radius: $radius;
 }
