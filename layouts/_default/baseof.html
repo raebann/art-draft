@@ -2,10 +2,10 @@
 <html lang="{{ .Site.Language.Lang }}">
   {{- partial "head.html" . -}}
   
-  <body class="layout-container">
+  <body class="main-layout">
     {{- partial "header.html" . -}}
     
-    <main class="main-content" id="main">
+    <main class="width-wrapper content" id="main">
       {{- block "main" . }}{{- end }}
     </main>
     

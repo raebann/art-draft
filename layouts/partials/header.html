@@ -1,7 +1,8 @@
 <header class="nav-bar">
+  {{/*  no need for this to be in width-wrapper since it's positioned absolutely  */}}
   <a class="skip-nav" href="#main">Skip to main content</a>
 
-  <nav>
+  <nav class="width-wrapper">
     <ul class="nav-list">
       <li class="nav-item -home"><a class="link" href="{{ .Site.BaseURL }}">{{ .Site.Title | title }}</a></li>
       {{ range .Site.Menus.main }}

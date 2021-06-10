@@ -1,0 +1,6 @@
+.width-wrapper {
+  max-width: calc(#{$width} + (#{$gutter} * 4)); // padding is ($gutter * 2) on each side
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 ($gutter * 2);
+}

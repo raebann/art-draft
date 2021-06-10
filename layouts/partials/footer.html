@@ -1,4 +1,8 @@
 {{ with .Site.Social }}
+  {{/*
+    footer doesn't really need width-wrapper since its content should never be that long (and if it
+    is, it shows anyway because there's no `overflow: hidden` or `flex-wrap: wrap`)
+  */}}
   <footer class="footer-bar">
     <ul class="footer-list">
     {{ range $site, $url := . }}

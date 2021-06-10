@@ -12,7 +12,8 @@
 
 // components:
 //  layout
-@import '_components/layout-container.scss';
+@import '_components/main-layout.scss';
+@import '_components/width-wrapper.scss';
 //  header/navigation
 @import '_components/nav-bar.scss';
 @import '_components/skip-nav.scss';
