@@ -5,6 +5,12 @@
   gap: ($gutter / 2) ($gutter / 2);
   flex-wrap: wrap;
 
+  &.-wide {
+    max-width: calc(100vw - (#{$gutter} * 4));
+    width: $width + 20rem;
+    align-self: center;
+  }
+
   &.-centered {
     justify-content: center;
   }

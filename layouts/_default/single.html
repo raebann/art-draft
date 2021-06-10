@@ -2,7 +2,7 @@
   <h1 id="{{ .Title | urlize }}">{{ .Title }}</h1>
 
   {{- with .Resources.ByType "image" -}}
-    <ul class="image-list">
+    <ul class="image-list -wide">
     {{- range . -}}
       <li class="item">
         {{ $image := .Fill (printf "%s%s" "500x500 " .Params.Anchor) }}
