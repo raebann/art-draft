@@ -1,6 +1,6 @@
 .image-list {
   list-style: none;
-  margin: 0 0 ($gutter / 2);
+  margin: 0 0 $gutter;
   display: flex;
   gap: ($gutter / 2) ($gutter / 2);
   flex-wrap: wrap;
