@@ -1,12 +1,12 @@
 .layout-container {
-  max-width: 100rem;
+  max-width: calc(100rem + (#{$gutter} * 4)); // padding is ($gutter * 2) on each side
   min-height: 100vh;
   margin: 0 auto;
   padding: 0 ($gutter * 2);
   display: flex;
   flex-direction: column;
   
-  > .maincontent {
+  > .main-content {
     flex-grow: 1;
   }
 }
