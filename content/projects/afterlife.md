@@ -1,4 +1,6 @@
-## AFTERLIFE: A GHOST STORY
+-----
+title: Afterlife: a ghost story
+-----
 
 **VCDS, 2016**
 
