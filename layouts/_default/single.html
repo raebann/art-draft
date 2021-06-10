@@ -1,5 +1,17 @@
 {{ define "main" }}
   <h1 id="{{ .Title | urlize }}">{{ .Title }}</h1>
+
+  {{- with .Resources.ByType "image" -}}
+    <ul class="image-list">
+    {{- range . -}}
+      <li class="image-container">
+        {{ $image := .Fill (printf "%s%s" "500x500 " .Params.Anchor) }}
+        <img class="image" src="{{ $image.RelPermalink }}" alt="{{ $image.Title }}">
+      </li>
+    {{- end -}}
+    </ul>
+  {{- end -}}
+
   <div>
     {{ .Content }}
   </div>
