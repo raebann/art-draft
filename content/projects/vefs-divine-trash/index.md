@@ -1,15 +1,15 @@
 ---
 title: "VEFS RUNWAY SHOW: DIVINE TRASH"
 resources:
-- src: "images/jellyfish.jpg"
-  title: "Three moon jellyfishes (Aurelia aurita) captured by a lion's mane jellyfish (Cyanea capillata) in Rågårdsdal, Sweden."
-- src: "images/fisherman.jpg"
-  title: "Leg rowing fisherman, seen through his cone basket, on Inle Lake."
-- src: "images/dome.jpg"
-  title: "The interior side of the dome of the Sheikh Lotf-Allah mosque in Isfahan, Iran."
-- src: "images/bridge.jpg"
-  title: "The Golden Gate Bridge as seen from the Marin Headlands at sunrise. Large parts of the bridge are covered by low, dense fog that is a frequent feature of this part of California."
-  params:
+- src: "dt1.jpg"
+  title: "A dark-haired woman walking in a runway show, wearing a satin pink dress under a purple sheer wrap. Her hair is designed like a half-crown, wrapped around bright pink hair rolles."
+- src: "dt2.jpg"
+  title: "A dark-haired woman looks down from the runway, lit from behind by a chandelier. She is wearing a pink satin dress with a purple sheer overlay, and her hair is in a crown design wrapped around hair rollers."
+- src: "dt3.jpg"
+  title: "A dark-haired model walks the runway, wearing a pink satin shirt and a denim skirt with pink detailing. There is a ribbon around her neck. The audience can be seen on either side of the runway inside Hart House's Great Hall."
+- src: "dt4.jpg"
+  title: "A dark haired woman looks directly at the camera. There is a pink ribbon tied in a bow around her neck, her hair is arranged in a crown wrapped around hair rollers. A purple overlay rests halfway down her arms."
+params:
     anchor: center
 ---
 

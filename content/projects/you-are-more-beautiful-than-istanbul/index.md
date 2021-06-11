@@ -1,14 +1,14 @@
 ---
 title: YOU ARE MORE BEAUTIFUL THAN ISTANBUL
 resources:
-- src: "images/jellyfish.jpg"
-  title: "Three moon jellyfishes (Aurelia aurita) captured by a lion's mane jellyfish (Cyanea capillata) in Rågårdsdal, Sweden."
-- src: "images/fisherman.jpg"
-  title: "Leg rowing fisherman, seen through his cone basket, on Inle Lake."
-- src: "images/dome.jpg"
-  title: "The interior side of the dome of the Sheikh Lotf-Allah mosque in Isfahan, Iran."
-- src: "images/bridge.jpg"
-  title: "The Golden Gate Bridge as seen from the Marin Headlands at sunrise. Large parts of the bridge are covered by low, dense fog that is a frequent feature of this part of California."
+- src: "ista1.jpg"
+  title: "Three women sitting together - the eldest in her chair wearing glasses and a headscarf. Her daughter leans against her knees, and the youngest woman lies on her side with her head in the second woman's lap."
+- src: "ista2.jpg"
+  title: "Three women sitting on three different worn looking chairs with windows into different eras of Istanbul in the background."
+- src: "ista3.jpg"
+  title: "Three women lit in blue, grabbing their own faces as if to silence themselves."
+- src: "ista4.jpg"
+  title: "Three women lit dimly in shadow, sitting on chairs spread apart on an otherwise empty stage."
   params:
     anchor: center
 ---
