@@ -1,5 +1,12 @@
 ---
 title: "Afterlife: a ghost story"
+resources:
+- src: "af1.jpg"
+  title: "Three people stand in front of a rough stone background with two small windows. Two people stand in the back, one wearing a white t-shirt and plaid overshirt with dark hair and a beard, and the other with blonde hair in a bun, a large grey sweater, and their arms crossed. In front of them stands a smaller person, wearing an off the shoulder grey shirt and large square glasses. All three people have bruising under their eyes."
+- src: "af2.jpg"
+  title: "Two people look into the camera. They are both wet, as if they have been submerged in water for a long time. Their lips and eyes show signs of the cold and bluing. Under both their eyes are dark circles."
+- src: "af3.jpg"
+  title: "A shirtless man looks off to the side, in front of a rough stone wall. There are sparse, leafless vines behind him. He shows signs of cold and bluing on his lips. Around his eyes is a white cloth, tied as a blindfold."
 ---
 
 **VCDS, 2016**

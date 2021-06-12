@@ -1,14 +1,14 @@
 ---
 title: "VEFS RUNWAY SHOW: CELESTIAL BODIES"
 resources:
-- src: "images/jellyfish.jpg"
-  title: "Three moon jellyfishes (Aurelia aurita) captured by a lion's mane jellyfish (Cyanea capillata) in Rågårdsdal, Sweden."
-- src: "images/fisherman.jpg"
-  title: "Leg rowing fisherman, seen through his cone basket, on Inle Lake."
-- src: "images/dome.jpg"
-  title: "The interior side of the dome of the Sheikh Lotf-Allah mosque in Isfahan, Iran."
-- src: "images/bridge.jpg"
-  title: "The Golden Gate Bridge as seen from the Marin Headlands at sunrise. Large parts of the bridge are covered by low, dense fog that is a frequent feature of this part of California."
+- src: "vecb1.jpeg"
+  title: "A group of models in shades of pink, white, and pale yellow and blue stand in the sun in front of a plain stone background."
+- src: "vecb2.jpg"
+  title: "A dark haired model stands posing on a runway with their hands on their waist, staring directly into the camera. They are wearing a long satin skirt and matching top with a sheer overlay jacket."
+- src: "vecb3.jpg"
+  title: "A dark haired model walks on a runway in a long satin skirt and matching top. They are wearing a sheer long sleeved robe on top. Behind them is another model on a returning walk and show signage."
+- src: "vecb4.jpg"
+  title: "A group of models in shades of purple, pink, white, and yellow stand in front of a white tulle background following a fashion show."
   params:
     anchor: center
 ---
