@@ -1,15 +1,23 @@
 ---
 title: The Importance of Being Earnest
 resources:
-- src: "images/jellyfish.jpg"
-  title: "Three moon jellyfishes (Aurelia aurita) captured by a lion's mane jellyfish (Cyanea capillata) in Rågårdsdal, Sweden."
-- src: "images/fisherman.jpg"
-  title: "Leg rowing fisherman, seen through his cone basket, on Inle Lake."
-- src: "images/dome.jpg"
-  title: "The interior side of the dome of the Sheikh Lotf-Allah mosque in Isfahan, Iran."
-- src: "images/bridge.jpg"
-  title: "The Golden Gate Bridge as seen from the Marin Headlands at sunrise. Large parts of the bridge are covered by low, dense fog that is a frequent feature of this part of California."
-  params:
+- src: "iobe1.jpg"
+  title: "A wide view picture of a theatre stage. On it, two women dressed in period clothing stand looking tense. In the center of the stage, two people in period summer suits are kneeling with their arms spread wide, in a pantomime of seranading. To the right, three musicians dressed in servant's uniforms play a bell, guitar, and clarinet respectively. Behind them is the set of a period apartment in shades of cream, pink, and gold. In the center is a large atrium covered in plants."
+- src: "iobe2.jpg"
+  title: "A woman wearing a fur-trimmed coat, a large ornate hat, and holding a finely decorated notebook sits in a chair. She looks severe and judgemental. Behind her, out of focus, is a greenhouse or atrium style trellis covered in plants."
+- src: "iobe3.jpg"
+  title: "A person stands close to the camera in an ornate period dress and a sun hat. Their hair is in long braids, their hands are clasped before them, and on their face is a look of *oop*, or bemused innocence. To the right, another person with their arms folded severely to the side looks down their nose with a look of haughty disgust and frustration."
+- src: "iobe4.jpg"
+  title: "A wide view of a theatre stage, showing a garden scene: a large central greenhouse covered in plants, potted tress, a step ladder, a wagon wheel, and a small garden table. Seated at the table are two people dressed in period summer suits. They appear to be eating afternoon tea and talking. The stage is lit blue."
+- src: "iobe5.jpg"
+  title: "In the foreground, a person in a period summer suit sits at a table covered with books and a small wooden box with a latch. They are slightly out of focus. Behind them, in focus, another person stands looking at them with bemusement and joy. They are wearing a garden straw hat and have their hands clasped in front of them. Behind the people are walls crawling with vines and a trellis with plants all over it."
+- src: "iobe6.jpg"
+  title: "Two people (one dressed in a servant's uniform, the other in a long smoking jacket) stand upstage with their backs turned and their fingers dramatically in their ears, in a *I'm not listening* gesture. In the foreground, a couple hasan intimate conversation. Around them is the set of a period urban apartment."
+- src: "iobe7.jpg"
+  title: "Two people dressed in summer suits of pale blue, brown, and white sit on a pink velvet loveseat. One looks disgusted while the other looks confused. Both their hands are crossed, and they are looking up and off to one side of the photo, as if at something that repulses them."
+- src: "iobe8.jpg"
+  title: "A woman in a white summer dress suit with pale blue accents holds a white lace parasol and white handbag before a background of winding vines."
+  params:  
     anchor: center
 ---
 
