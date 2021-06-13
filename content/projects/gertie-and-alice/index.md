@@ -10,7 +10,7 @@ resources:
 - src: "ga4.jpg"
   title: "A person in dark pants and a white shirt kneels on a stage, facing away from the camera. Looking directly at them is another person, dressed in a yellow sleeveless sundress."
 - src: "ga5.jpg"
-  title: "Four people in casual spring-style clothing sit inside the wooden frame of a house. Two are seated in armchairs and two are standing. Off to the side, seemingly outside the house sits a table with a radio on it. 
+  title: "Four people in casual spring-style clothing sit inside the wooden frame of a house. Two are seated in armchairs and two are standing. Off to the side, seemingly outside the house sits a table with a radio on it." 
 - src: "ga6.jpg"
   title: "Two figures appear as shadows from behind a sheer cloth hanging between two wooden posts. The shadow people each have one hand reaching towards the other - the one on the left is kneeling to one side of their chair and reaching up, the one on the right is standing to the side of theirs and reaching one hand back. They are warmly backlit with a single light, and the rest of the stage is bathed in purple. To the right of this scene, there is a rectangle of space that has ocean waves projected onto it."
 - src: "ga7.jpg"

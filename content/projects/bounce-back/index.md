@@ -2,7 +2,7 @@
 title: bounce back (2022)
 resources:
 - src: "bb1.jpg"
-  title: "A black image featuring white text in lowercase reading "bounce back". Underneath that in slightly smaller fault white text reads 2022."
+  title: "A black image featuring white text in lowercase reading bounce back. Underneath that in slightly smaller fault white text reads 2022."
   params:
     anchor: center
 ---
