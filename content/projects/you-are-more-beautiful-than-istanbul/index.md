@@ -1,5 +1,5 @@
 ---
-title: YOU ARE MORE BEAUTIFUL THAN ISTANBUL
+title: You are more beautiful than Istanbul
 resources:
 - src: "ista1.jpg"
   title: "Three women sitting together - the eldest in her chair wearing glasses and a headscarf. Her daughter leans against her knees, and the youngest woman lies on her side with her head in the second woman's lap."

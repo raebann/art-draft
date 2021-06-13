@@ -1,13 +1,13 @@
 title: "Performance Highlights"
 resources:
-- src: "hof1.jpg"
-  title: "A group of people on a stage, divided in two groups. They are centered around one man with a microphone, on either side of him two women stand. Behind each of them are two dining-table style chairs, on which people sit or lean, watching the scene in front of them. The stage is lit purple and blue."
-- src: "hof2.jpg"
-  title: "Two people sit in cardboard boxes in front of a red velvet curtain. One is wearing a white bonnet and the other is wearing a purple toque-style hat. They are both turned towards each other, as if in a kiss at a distance."
-- src: "hof3.jpg"
-  title: "Downstage, a large wooden chest with no ornamentation is open, lit in purples and pinks. Surrounding the chest are a group of people, seemingly shocked and jarred by what they have discovered there. The people are all bathed in light as if coming from inside the box."
-- src: "hof4.jpg"
-  title: "Two people are facing each other on stage, bathed in yellow. Smoke can be seen rising around the them. One person's back is facing the camera, with their arms spread wide. The other person has long hair, half tied back, and is looking forward with a large smile and their arms spread out as if in joy."
+- src: "ph1.jpg"
+  title: "A group of people on a raised platform on a stage, facing the right. In the foreground, one person stands facing the riser. Hung behind them all are window silhouettes in the shape of church windows and a large cross hung centre. Underneath the riser, scenes reminiscient of stained glass are painted in between each supporting column."
+- src: "ph2.jpg"
+  title: "Four people stand in front of old-looking stone buildings and a small wooded copse. They are dressed in costume as Mustardseed, Titania, Oberon, and Puck from A Midsummer's Night Dream. They are all dressed using natural elements - flowers, sticks, horns, bug's wings."
+- src: "ph3.jpg"
+  title: "Two people, one dressed in a wedding gown and veil with tiara and the other in a formal military uniform, stand in front of a small pink house. Behind them, trees can be seen, showing they are outdoors. Beside them, a man dressed in 70s style work clothes talks to them while holding a trumpet. The whole scene is bathed in pink light."
+- src: "ph4.jpg"
+  title: "Lit in pale blues and greys, a group of children dressed in vintage slips, school dresses, and boys' school uniforms seem to be melting together. They lean to the right, supporting their heads on the backs of those in front of them. There is bright white light beside them, and darkness behind them."
 ---
 
 **ABOUT:**
