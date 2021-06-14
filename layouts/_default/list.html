@@ -1,4 +1,8 @@
 {{ define "main" }}
+  {{- if eq .Kind "term" -}}
+    <h1>Tagged: {{ .Title | title }}</h1>
+  {{- end -}}
+
   <ul class="image-list -centered">
   {{ range .Pages -}}
     <li class="item">
