@@ -1,6 +1,14 @@
 {{ define "main" }}
   <h1 id="{{ .Title | urlize }}">{{ .Title }}</h1>
 
+  {{- with .GetTerms "tags" -}}
+    <ul class="tag-list">
+    {{- range . -}}
+      <li class="tag-item"><a class="tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{- end -}}
+    </ul>
+  {{- end -}}
+
   {{- with .Resources.ByType "image" -}}
     <ul class="image-list -wide">
     {{- range . -}}

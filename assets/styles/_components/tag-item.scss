@@ -1,0 +1,11 @@
+.tag-item {
+  > .tag::before {
+    content: '# ';
+  }
+
+  &:not(:last-child)::after {
+    content: '/';
+    color: $faded;
+    margin: 0 ($gutter / 2);
+  }
+}
