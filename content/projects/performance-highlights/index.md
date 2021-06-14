@@ -1,3 +1,4 @@
+---
 title: "Performance Highlights"
 resources:
 - src: "ph1.jpg"

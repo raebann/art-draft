@@ -1,6 +1,8 @@
 ---
 layout: standalone
-title: About 
+title: About
+resources:
+- src: face.jpg
 ---
 
 ## ABOUT
