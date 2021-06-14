@@ -1,0 +1,20 @@
+.image-link {
+  position: relative;
+  height: 100%;
+  display: flex;
+  color: white;
+  text-decoration: none;
+
+  > .focus-area {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity .1s linear;
+  }
+  &:hover > .focus-area,
+  &:focus > .focus-area,
+  &:active > .focus-area {
+    opacity: 1;
+  }
+}
