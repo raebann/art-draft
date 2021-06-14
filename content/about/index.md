@@ -1,7 +1,6 @@
 ---
 layout: standalone
 title: About 
-- src: "face.jpg"
 ---
 
 ## ABOUT
